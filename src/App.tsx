@@ -1,7 +1,6 @@
 import "./App.css";
 
 function App() {
-  console.log("h");
   return (
     <div>
       <div className="flex flex-col items-center mt-5">
